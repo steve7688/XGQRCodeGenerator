@@ -1,6 +1,6 @@
 # XGQRCodeGenerator
 
-[![CI Status](https://img.shields.io/travis/283732265@qq.com/XGQRCodeGenerator.svg?style=flat)](https://travis-ci.org/283732265@qq.com/XGQRCodeGenerator)
+[![CI Status](https://img.shields.io/travis/steve7688@163.com/XGQRCodeGenerator.svg?style=flat)](https://travis-ci.org/steve7688@163.com/XGQRCodeGenerator)
 [![Version](https://img.shields.io/cocoapods/v/XGQRCodeGenerator.svg?style=flat)](https://cocoapods.org/pods/XGQRCodeGenerator)
 [![License](https://img.shields.io/cocoapods/l/XGQRCodeGenerator.svg?style=flat)](https://cocoapods.org/pods/XGQRCodeGenerator)
 [![Platform](https://img.shields.io/cocoapods/p/XGQRCodeGenerator.svg?style=flat)](https://cocoapods.org/pods/XGQRCodeGenerator)
