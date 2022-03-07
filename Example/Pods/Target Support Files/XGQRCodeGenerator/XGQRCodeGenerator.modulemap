@@ -1,0 +1,6 @@
+framework module XGQRCodeGenerator {
+  umbrella header "XGQRCodeGenerator-umbrella.h"
+
+  export *
+  module * { export * }
+}

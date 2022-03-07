@@ -1,0 +1,16 @@
+PODS:
+  - XGQRCodeGenerator (0.1.0)
+
+DEPENDENCIES:
+  - XGQRCodeGenerator (from `../`)
+
+EXTERNAL SOURCES:
+  XGQRCodeGenerator:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  XGQRCodeGenerator: 8f2da3a7248758ad80502f98bd520339c40904f5
+
+PODFILE CHECKSUM: dae7937f4ab5ec35fb13ec11c4d3812d100c1846
+
+COCOAPODS: 1.11.2

@@ -1,0 +1,6 @@
+use_frameworks!
+target 'XGQRCodeGenerator_Tests' do
+  pod 'XGQRCodeGenerator', :path => '../'
+  
+  
+end

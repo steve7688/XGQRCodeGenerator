@@ -1,0 +1,22 @@
+{
+  "name": "XGQRCodeGenerator",
+  "version": "0.1.0",
+  "summary": "A short description of XGQRCodeGenerator.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/283732265@qq.com/XGQRCodeGenerator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "283732265@qq.com": "steve@xianqi.tech"
+  },
+  "source": {
+    "git": "https://github.com/283732265@qq.com/XGQRCodeGenerator.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "XGQRCodeGenerator/Classes/**/*"
+}
