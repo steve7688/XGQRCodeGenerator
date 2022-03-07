@@ -18,8 +18,8 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  Create high quality qrcode with custom logo for iOS.
+  DESC
 
   s.homepage         = 'https://github.com/steve7688/XGQRCodeGenerator'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
