@@ -72,7 +72,7 @@
     [sourceImage drawAtPoint:CGPointMake(0, 0)];
     CGContextRef context=UIGraphicsGetCurrentContext();
     CGContextDrawPath(context, kCGPathStroke);
-    CGRect rect = CGRectMake(imageSize.width / 2 - 25, imageSize.height / 2 - 25, 50, 50);
+    CGRect rect = CGRectMake(imageSize.width / 2 - 20, imageSize.height / 2 - 20, 40, 40);
     CGContextClip(context);
     [newImage drawInRect:rect];
     UIImage *image = UIGraphicsGetImageFromCurrentImageContext();
